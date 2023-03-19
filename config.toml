@@ -45,13 +45,13 @@ preserveTaxonomyNames = true
     name = "HKUO團隊"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    url = ""
+    url = "https://github.com/HKUOShard"
 
     # Text to go before copyright information
-    prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
+    prefix = "[HKUOShard](https://hkuoshard.com)"
 
     # Text to go between copyright and hugo disclaimer (if enabled)
-    suffix = ""
+    suffix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
 
 [menu]
   # This displays buttons in the navbar to access your contents
@@ -66,12 +66,18 @@ preserveTaxonomyNames = true
     name = "Videos"
     url = "https://www.youtube.com/@hkuoshard"
     weight = 20
+  
+  [[menu.main]]
+    identifier = "chat"
+    name = "Discord"
+    url = "https://disboard.org"    # Not ready
+    weight = 30
 
 #  [[menu.main]]
 #    identifier = "posts"
 #    name = "All posts"
 #    url = "/post/"       # The path can lead to a content folder too.
-#    weight = 30
+#    weight = 40
 
 [taxonomies]
 category = "categories"
