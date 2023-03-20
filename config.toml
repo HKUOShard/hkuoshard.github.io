@@ -72,12 +72,18 @@ preserveTaxonomyNames = true
     name = "Discord"
     url = "https://disboard.org"    # Not ready
     weight = 30
+  
+  [[menu.main]]
+    identifier = "plan"
+    name = "Roadmap"
+    url = "/plan/"
+    weight = 40
 
 #  [[menu.main]]
 #    identifier = "posts"
 #    name = "All posts"
 #    url = "/post/"       # The path can lead to a content folder too.
-#    weight = 40
+#    weight = 50
 
 [taxonomies]
 category = "categories"
