@@ -62,21 +62,21 @@ preserveTaxonomyNames = true
     weight = 10          # A number to order the buttons in the navbar
   
   [[menu.main]]
+    identifier = "plan"
+    name = "Roadmap"
+    url = "/plan/"
+    weight = 20
+  
+  [[menu.main]]
     identifier = "videos"
     name = "Videos"
     url = "https://www.youtube.com/@hkuoshard"
-    weight = 20
+    weight = 30
   
   [[menu.main]]
     identifier = "chat"
     name = "Discord"
     url = "https://disboard.org"    # Not ready
-    weight = 30
-  
-  [[menu.main]]
-    identifier = "plan"
-    name = "Roadmap"
-    url = "/plan/"
     weight = 40
 
 #  [[menu.main]]
