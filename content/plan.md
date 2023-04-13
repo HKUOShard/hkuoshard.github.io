@@ -12,4 +12,4 @@ Save嘅backup應該已經搵唔返。就算搵得返都要有排攪先可以用�
 
 話雖如此，但都歡迎大家加入Chatroom聚舊聯誼一下。話唔定大家日後會有另一種方式再聚。
 
-Chatroom：[https://matrix.to/#/#hkuoshard:matrix.org](https://matrix.to/#/#hkuoshard:matrix.org)
+Chatroom：[https://matrix.to/#/#hkuoshard-veteran:matrix.org](https://matrix.to/#/#hkuoshard-veteran:matrix.org)
