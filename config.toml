@@ -75,8 +75,8 @@ preserveTaxonomyNames = true
   
   [[menu.main]]
     identifier = "chat"
-    name = "Discord"
-    url = "https://disboard.org"    # Not ready
+    name = "Chatroom"
+    url = "https://matrix.to/#/#hkuoshard:matrix.org"
     weight = 40
 
 #  [[menu.main]]
